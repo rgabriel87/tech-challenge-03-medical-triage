@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+numpy
+joblib
+prometheus-client
+pydantic
+pytest
+httpx
+ruff
+skl2onnx
+onnxruntime
