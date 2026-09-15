@@ -6,7 +6,6 @@ import joblib
 from skl2onnx import convert_sklearn
 from skl2onnx.common.data_types import FloatTensorType
 
-
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 MODEL_PATH = PROJECT_ROOT / "models" / "medical_text_classifier.joblib"
 ONNX_PATH = PROJECT_ROOT / "models" / "medical_classifier.onnx"
