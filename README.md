@@ -110,6 +110,10 @@ tech-challenge-03-medical-triage/
 |-- requirements.txt
 `-- README.md
 ```
+```markdown
+> **Observação:** os diretórios `data/` e `models/` armazenam, os dados utilizados
+> no treinamento e os artefatos gerados localmente pelo pipeline. Esses arquivos
+> não são versionados no repositório devido ao tamanho e à natureza dos artefatos gerados.
 
 
 ## Treinamento do Modelo
