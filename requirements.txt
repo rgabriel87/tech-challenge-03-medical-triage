@@ -11,3 +11,4 @@ httpx
 ruff
 skl2onnx
 onnxruntime
+dill
